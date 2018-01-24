@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\bin\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.deps.json
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\bin\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\bin\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\bin\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.dll
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\bin\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.pdb
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.dll
+C:\Users\Owner\source\repos\Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter\obj\Debug\netcoreapp2.0\Lab1_Calculate_Perimeter.pdb

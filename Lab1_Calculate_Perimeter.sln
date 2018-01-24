@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Calculate_Perimeter", "Lab1_Calculate_Perimeter\Lab1_Calculate_Perimeter.csproj", "{74B61AD7-F98D-443E-A3DE-B702FB1DE326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B61AD7-F98D-443E-A3DE-B702FB1DE326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B61AD7-F98D-443E-A3DE-B702FB1DE326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B61AD7-F98D-443E-A3DE-B702FB1DE326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B61AD7-F98D-443E-A3DE-B702FB1DE326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34D57DE-5418-4D33-9ACE-FAF38A7F92A6}
+	EndGlobalSection
+EndGlobal
